@@ -25,8 +25,10 @@ public class Kilpkonn {
             y--;
         }
     }
-    // lisa funktsioon keera(), mis suurendab suunda ühe võrra
-    // kui ring on täis, alustatakse taas suunast 0
+    /**
+     * lisa funktsioon keera(), mis suurendab suunda ühe võrra
+     * kui ring on täis, alustatakse taas suunast 0
+     */
     public void keera() {
         if (suund < 3) {
             suund++;
