@@ -1,0 +1,10 @@
+Alamklassi näide
+
+* Koosta klass Punkt2D double-tüüpi koordinaatidega x ja y
+* Lisa funktsioon kaugusNullist näitamaks kaugust koordinaatide keskpunktist
+* Koosta massiiv kolme punktiga, leia milline on neist suurim kaugus nullist
+
+* Koosta klassi Punkt2D alamklass Punkt3D, lisa koordinaat z
+* Kirjuta üle funktsioon kaugusNullist, arvesta ka kolmandat koordinaati
+    Math.sqrt(x * x + y * y + z * z)
+* Koosta massiiv, kus on 2D ja 3D punkte, kuva punkti suurim kaugus nullist
