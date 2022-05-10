@@ -1,0 +1,8 @@
+Juku,reesus,true
+Mati,reesus,false
+Kati,reesus,true
+Mari,reesus,false
+Peeter,mittereesus,true
+Toomas,mittereesus,false
+Maria,mittereesus,true
+Selena,mittereesus,false

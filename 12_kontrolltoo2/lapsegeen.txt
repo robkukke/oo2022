@@ -1,0 +1,12 @@
+Nimetus: reesus
+Positiivne: true
+Nimetus: reesus
+Positiivne: false
+Nimetus: mittereesus
+Positiivne: false
+Nimetus: reesus
+Positiivne: true
+Nimetus: reesus
+Positiivne: true
+Nimetus: reesus
+Positiivne: true
