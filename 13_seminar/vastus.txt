@@ -1,0 +1,6 @@
+Liideste kasutamine rakenduse kavandamise ja töö jagamise juures
+
+Liides on abstraktne klass, millega grupeeritakse meetodeid.
+Rakenduse kavandamisel saab eelnevalt liidesesse meetodite nimed kirja panna ning hiljem need eraldi klassis, mis liidest implementeerib, valmis kirjutada.
+Klassidele saab implementeerida mitu liidest, seega saab erinevad töö osad jagada erinevatesse liidestesse.
+Näiteks vaadata eelnevalt tunnis tehtud ussimängu.
